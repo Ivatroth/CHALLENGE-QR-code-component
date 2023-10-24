@@ -10,8 +10,7 @@ Esta es una solución a [QR code component challenge on Frontend Mentor](https:/
 - [Mi proceso](#my-process)
   - [Construido con](#built-with)
   - [Que aprendí de nuevo](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Desarrollo Continuo](#continued-development)
 - [Autora](#author)
 
 
@@ -25,7 +24,7 @@ Esta es una solución a [QR code component challenge on Frontend Mentor](https:/
 
 ### Links
 
-- URL de la solucion: [CHALLENGE-QR-code-component](https://github.com/Ivatroth/CHALLENGE-QR-code-component.git)
+- URL de la solucion: [CHALLENGE-QR-code-component](https://ivatroth.github.io/CHALLENGE-QR-code-component/)
 
 ## Mi proceso
 
