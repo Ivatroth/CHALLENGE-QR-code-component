@@ -22,7 +22,7 @@ body{
   margin: 90px auto;
   background-color: #fff;
   width: 90%;
-  max-width: 350px;
+  max-width: 340px;
   overflow: hidden;
   border-radius: 20px;
 }
@@ -34,7 +34,7 @@ body{
 
 .img{
   width: 100%;
-  max-width: 350px;
+  max-width: 340px;
   display: block;
   border-radius: 15px;
 }
@@ -66,6 +66,6 @@ body{
   }
 
   .paragraph{
-    font-size: 18px;
+    font-size: 16px;
   }
 }
